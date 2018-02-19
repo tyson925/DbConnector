@@ -1,3 +1,6 @@
+connect to DB!
+
+
 connect to the JS
 
 fix some bug
